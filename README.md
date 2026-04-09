@@ -22,7 +22,7 @@ The dataset was gathered at the beginning of this project for analysis and predi
 
 The dataset used is a CSV file known as `diabetes.csv`. It includes information from a variety of individuals in the form of features that are crucial for diabetes prediction. Initial inspection of the data showed no values missing, hence guaranteeing a smooth pre-processing workflow.
 
-Throughout this entire project, data manipulation and analysis have been done in [Python](https://www.python.org) programming language and Jupyter Notebook. For handling data and visualization, different libraries were used like [Pandas](https://pandas.pydata.org/docs/) for handling data, [NumPy](https://numpy.org/doc/stable/reference/generated/numpy.indices.html) for computations, and [Matplotlib](https://numpy.org/doc/stable/reference/generated/numpy.indices.html) for visualization. Using such commands as `.head()`, `.info()`, and `.describe()`, an observation of the structure and the contents of this dataset is to be made to understand its distribution and characteri 
+Throughout this entire project, data manipulation and analysis have been done in [Python](https://www.python.org) programming language and Jupyter Notebook. For handling data and visualization, different libraries were used like [Pandas](https://pandas.pydata.org/docs/) for handling data, [NumPy](https://numpy.org/doc/stable/reference/generated/numpy.indices.html) for computations, and [Matplotlib](https://numpy.org/doc/stable/reference/generated/numpy.indices.html) for visualization. Using such commands as `.head()`, `.info()`, and `.describe()`, an observation of the structure and the contents of this dataset is to be made to understand its distribution and characteristic. 
 
 
 ---
